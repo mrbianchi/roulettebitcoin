@@ -1,6 +1,6 @@
-# ruletabitcoin<br>
-Genera un número de página aleatorio para directory.io<br>
-Descarga la página<br>
-Consulta el saldo y movimientos de todas las wallets con api de blockchain.info<br>
-Visualiza saldos y direcciones, resalta las que tienen saldo o tuvieron movimientos<br>
-Si alguna tiene saldo o tuvo movimientos, es almacenada en data.txt junto con el número de página en la que se encontró.
+dead project (and it had no sense...)
+# roulettebitcoin<br>
+It generates a random page number for directory.io<br>
+Downloads the page<br>
+Query balances and movements withg blockchain.info api<br>
+Page numbers with positive balances or movements are stored in data.txt
